@@ -1,4 +1,4 @@
-# About Consistent
+# About Learning
 
 This is a collection of shaders that I made after sitting down to figure about how shaders work conceptually. This is a follow up to Consistent
 
